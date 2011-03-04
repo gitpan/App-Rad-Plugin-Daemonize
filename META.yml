@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Rad-Plugin-Daemonize
-version:            0.1.6
+version:            0.1.7
 abstract:           ~
 author:
     - Fernando Correa de Oliveira <fco@cpan.org>
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    App::Rad:          1.04
+    App::Rad:          1.05_01
     App::Rad::Tester:  0
     File::Temp:        0
     Test::More:        0
